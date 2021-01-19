@@ -90,9 +90,6 @@ namespace KurdishNumberToWords
                 return $"{Convert(Int32.Parse(_split[0]))} {currencyUnit}";
             }
         }
-
-        // NuGet API
-        // oy2meieui27bpcaeisqait7ebbx7xbnuree2dupq553yyq
     }
 
 
