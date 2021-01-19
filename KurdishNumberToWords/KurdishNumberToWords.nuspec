@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package >
+  <metadata>
+    <id>KurdishNumberToWords</id>
+    <version>1.0.0</version>
+    <title>Kurdish Number To Words</title>
+    <authors>Mawlood Fareq</authors>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <license type="expression">MIT</license>
+    <projectUrl>https://github.com/mawlood-fareq/c-sharp-kurdish-number-towords.git</projectUrl>
+    <description>Converts Numbers and Currency into words for Central Kurdish Language, and also you can use Special Currency and decimal units.</description>
+    <releaseNotes>Converts Numbers and Currency into words for Central Kurdish Language, and also you can use Special Currency and decimal units.</releaseNotes>
+    <copyright>Copyright 2021 Mawlood Fareq</copyright>
+    <tags>Kurdish Number</tags>
+  </metadata>
+</package>

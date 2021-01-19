@@ -1,0 +1,15 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <Authors>Mawlood Fareq</Authors>
+    <Product>Kurdish Number To Words</Product>
+    <Description>
+      - Converts Numbers into words for Central Kurdish Language.
+      - Converts Currency into words.
+      - Use Special Currency and decimal units.
+    </Description>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+  </PropertyGroup>
+
+</Project>

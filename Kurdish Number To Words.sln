@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KurdishNumberToWords", "KurdishNumberToWords\KurdishNumberToWords.csproj", "{141BBE13-201A-4067-A69D-E42D40495A45}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test", "Test\Test.csproj", "{AA2E8B03-E46F-494B-9A9A-AB6D3FA0A422}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{141BBE13-201A-4067-A69D-E42D40495A45}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{141BBE13-201A-4067-A69D-E42D40495A45}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{141BBE13-201A-4067-A69D-E42D40495A45}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{141BBE13-201A-4067-A69D-E42D40495A45}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AA2E8B03-E46F-494B-9A9A-AB6D3FA0A422}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA2E8B03-E46F-494B-9A9A-AB6D3FA0A422}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA2E8B03-E46F-494B-9A9A-AB6D3FA0A422}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA2E8B03-E46F-494B-9A9A-AB6D3FA0A422}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E99C8FBE-968D-4FA1-817C-A2309B8C3651}
+	EndGlobalSection
+EndGlobal
