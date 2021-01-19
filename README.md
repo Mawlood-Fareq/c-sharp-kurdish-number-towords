@@ -35,9 +35,7 @@ Console.WriteLine(num.ConvertCurrency(123.25, 'دۆلار', 'سەنت')) // سە
 
 ## Change Log
 
-__Version 1.0.1__
-* Converts Currency into words.
-* Use Special Currency and decimal units.
-
 __Version 1.0.0__
 * Converts Numbers into words for Central Kurdish Language.
+* Converts Currency into words.
+* Use Special Currency and decimal units.
